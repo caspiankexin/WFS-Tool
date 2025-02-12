@@ -1,14 +1,17 @@
 # 禾金词频统计工具—WFS
 
+2025年2月12日更新
+
+* 更新个人主页：idreams.cc   邮箱：a@idreams.cc
+* 重新审视这个项目，处理问题逻辑和方法都很落后，今年心血来潮用ai重写了个程序。有针对海量的人民日报文本文件词频统计需求的，可以移步新项目了解：[觅影词频统计工具（ 一款针对大量文本数据进行词频统计的工具）](https://github.com/caspiankexin/MiYing)
+
+---
+
+**2022年更新**
 
 Github下载地址：
 
 https://github.com/caspiankexin/WFS-Tool/releases
-
-
-国内下载地址：
-
-https://nebula.lanzoui.com/iRoX7ru3hob
 
 ## 项目说明
 
@@ -40,7 +43,7 @@ https://nebula.lanzoui.com/iRoX7ru3hob
 
 ①检查文件路径是否准确
 
-![](https://cdn.jsdelivr.net/gh/caspiankexin/tuchuang/PIC-img/%E7%A6%BE%E9%87%91%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%EF%BC%88WSF%EF%BC%89--%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84.png)
+![](https://cors.zme.ink/http://cdn.idreams.cc/20250212a01cd383a7f27c3c00d36a380421efaf.webp)
 
 ②在原始数据文件夹内，存入需要统计的文件资料，如上图分类整理好；将整理好的关键词名单命名存放在【关键词名单】文件夹下。
 
@@ -52,19 +55,19 @@ https://nebula.lanzoui.com/iRoX7ru3hob
 
 `PS：修改的内容，都参照模板里的格式来进行修改，不然无法识别`
 
-<img src="https://cdn.jsdelivr.net/gh/caspiankexin/tuchuang/PIC-img/999999999999999999.png" alt="%E7%A6%BE%E9%87%91%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7%E2%80%94WFS%20e6330b952a7740a084547b72d778b177/Untitled.png" style="zoom: 67%;" />
+<img src="https://cors.zme.ink/http://cdn.idreams.cc/20250212e764f8b4c906658f0d3274bd0dbb8e03.webp" alt="%E7%A6%BE%E9%87%91%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7%E2%80%94WFS%20e6330b952a7740a084547b72d778b177/Untitled.png" style="zoom: 67%;" />
 
-<img src="https://i.loli.net/2021/07/25/ri5yhdm6gDnWT7P.png" style="zoom:67%;" />
+<img src="https://cors.zme.ink/http://cdn.idreams.cc/2025021284be7c9b57b39e756661004e73993e36.webp" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/caspiankexin/tuchuang/PIC-img/333333.png" style="zoom:67%;" />
+<img src="https://cors.zme.ink/http://cdn.idreams.cc/20250212b400b3af8581dbae6bebe9bc6d9b6576.webp" style="zoom:67%;" />
 
 ### 操作环节
 
 双击【禾金词频统计（WFS）.exe】（反应缓慢，捎等一会），出现两个窗口。一个信息显示界面，一个操作界面。如下图
 
-![](https://cdn.jsdelivr.net/gh/caspiankexin/tuchuang/PIC-img/Untitled%203.png)
+![](https://cors.zme.ink/http://cdn.idreams.cc/20250212acbc472466a94b688d9a53c540a72661.webp)
 
-![](https://cdn.jsdelivr.net/gh/caspiankexin/tuchuang/PIC-img/Untitled%204.png)
+![](https://cors.zme.ink/http://cdn.idreams.cc/2025021280ce0949fcec85aea9a8990122de47fc.webp)
 
 输入项目文件夹地址，例如E:\禾金词频统计（WFS）
 
@@ -77,5 +80,3 @@ https://nebula.lanzoui.com/iRoX7ru3hob
 ## 后记
 
 作为我第一个编写的软件，还很简陋，还有很多可以优化的地方，这都是之后可以努力的方向。这个软件的实现用了将近三年的时间，想法在脑海里，一段一段时间去突破一个个困难，最终让我这个编程小白，把整出来了，功能实现也比之前要多很多。这个过程中看了无数的文章，学了很多东西。虽说是我编的程序，其实也是将许多人代码拼凑魔改而已。
-
-之前还搞过人民日报爬虫的项目，再加上这个软件的项目，离我最终的目标，自己搞媒体研究更近了一步。
