@@ -2,7 +2,7 @@
 
 2025年2月12日更新
 
-* 更新个人主页：idreams.cc   邮箱：a@idreams.cc
+* 更新个人主页：idreams.cc   邮箱：  [联系我](mailto:mirror_flower@outlook.com) 
 * 重新审视这个项目，处理问题逻辑和方法都很落后，今年心血来潮用ai重写了个程序。有针对海量的人民日报文本文件词频统计需求的，可以移步新项目了解：[觅影词频统计工具（ 一款针对大量文本数据进行词频统计的工具）](https://github.com/caspiankexin/MiYing)
 
 ---
